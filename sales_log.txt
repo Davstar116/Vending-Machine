@@ -1,0 +1,218 @@
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 01:16:13
+Cliente: CC08C / David Solorzano Argueta
+Maquina ID: 2
+No.Serie: SN002
+Ubicacion: Plaza Terraza Coapa - Centro
+Productos vendidos:
+  - Emperador Chocolate (P05) x2 -> $35.00
+Total Compra: $35.00
+Efectivo ingresado: $50.00
+Cambio: $15.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 01:18:15
+Cliente: CC08C / David Solorzano Argueta
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Plaza Terraza Copa - Entrada
+Productos vendidos:
+  - Cheetos (P01) x3 -> $49.50
+  - Ruffles Queso (P03) x3 -> $60.00
+Total Compra: $109.50
+Efectivo ingresado: $110.00
+Cambio: $0.50
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 01:21:18
+Cliente: CC08C / David Solorzano Argueta
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Plaza Terraza Copa - Entrada
+Productos vendidos:
+  - Takis (P04) x1 -> $18.00
+Total Compra: $18.00
+Efectivo ingresado: $20.00
+Cambio: $2.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 03:33:28
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Plaza Terraza Copa - Entrada
+Productos vendidos:
+  - Cheetos (P01) x1 -> $16.50
+Total Compra: $16.50
+Efectivo ingresado: $20.00
+Cambio: $3.50
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 03:34:40
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 2
+No.Serie: SN002
+Ubicacion: Plaza Terraza Coapa - Centro
+Productos vendidos:
+  - Emperador Chocolate (P05) x1 -> $17.50
+Total Compra: $17.50
+Efectivo ingresado: $20.00
+Cambio: $2.50
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 12:09:28
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 2
+No.Serie: SN002
+Ubicacion: Terraza Coapa - Centro
+Productos vendidos:
+  - Coca Cola 355ml (D04) x1 -> $19.00
+Total Compra: $19.00
+Efectivo ingresado: $20.00
+Cambio: $1.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 12:37:52
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 2
+No.Serie: SN001
+Ubicacion: Terraza Coapa - Centro
+Productos vendidos:
+  - Coca Cola 355ml (D04) x2 -> $38.00
+Total Compra: $38.00
+Efectivo ingresado: $40.00
+Cambio: $2.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 12:39:38
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Terraza Coapa - Entrada
+Productos vendidos:
+  - Coca Cola 355ml (D04) x2 -> $38.00
+Total Compra: $38.00
+Efectivo ingresado: $40.00
+Cambio: $2.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-02 12:49:13
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Terraza Coapa - Entrada
+Productos vendidos:
+  - Coca Cola 355ml (D04) x3 -> $57.00
+Total Compra: $57.00
+Efectivo ingresado: $60.00
+Cambio: $3.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-03 02:38:05
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Terraza Coapa - Entrada
+Productos vendidos:
+  - Coca Cola 355ml (D04) x9 -> $171.00
+Total Compra: $171.00
+Efectivo ingresado: $200.00
+Cambio: $29.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-03 03:13:24
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Terraza Coapa - Entrada
+Productos vendidos:
+  - Cheetos (A01) x2 -> $33.00
+Total Compra: $33.00
+Efectivo ingresado: $50.00
+Cambio: $17.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-03 12:27:06
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 3
+No.Serie: SN003
+Ubicacion: Terraza Coapa - Nivel 1
+Productos vendidos:
+  - Ruffles Queso (B01) x10 -> $200.00
+Total Compra: $200.00
+Efectivo ingresado: $500.00
+Cambio: $300.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-03 12:53:20
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 4
+No.Serie: SN004
+Ubicacion: Terraza Coapa - Nivel 2
+Productos vendidos:
+  - Ruffles Queso (B01) x10 -> $200.00
+Total Compra: $200.00
+Efectivo ingresado: $500.00
+Cambio: $300.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-03 12:59:43
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 4
+No.Serie: SN004
+Ubicacion: Terraza Coapa - Nivel 2
+Productos vendidos:
+  - Emperador Limon (B04) x10 -> $175.00
+Total Compra: $175.00
+Efectivo ingresado: $200.00
+Cambio: $25.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-03 13:00:55
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 4
+No.Serie: SN004
+Ubicacion: Terraza Coapa - Nivel 2
+Productos vendidos:
+  - Cheetos (A01) x5 -> $82.50
+Total Compra: $82.50
+Efectivo ingresado: $100.00
+Cambio: $17.50
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-03 14:17:26
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 4
+No.Serie: SN004
+Ubicacion: Terraza Coapa - Nivel 2
+Productos vendidos:
+  - Cheetos (A01) x3 -> $49.50
+Total Compra: $49.50
+Efectivo ingresado: $50.00
+Cambio: $0.50
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-03 22:26:22
+Cliente: C001 / David Solorzano Argueta
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Terraza Coapa - Entrada
+Productos vendidos:
+  - Coca Cola 355ml (D04) x2 -> $38.00
+Total Compra: $38.00
+Efectivo ingresado: $40.00
+Cambio: $2.00
+
+=== Venta Registrada ===
+Fecha/Hora: 2025-06-04 19:51:04
+Cliente: C002 / Frida Sanchez
+Maquina ID: 1
+No.Serie: SN001
+Ubicacion: Terraza Coapa - Entrada
+Productos vendidos:
+  - Doritos Nachos (A02) x2 -> $33.00
+  - Cheetos (A01) x3 -> $49.50
+Total Compra: $82.50
+Efectivo ingresado: $90.00
+Cambio: $7.50
+

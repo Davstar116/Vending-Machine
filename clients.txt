@@ -1,0 +1,3 @@
+C001,Cliente1,client,987,client1@gmail.com,5512989719,0.00
+C002,Juan Hernandez Santiago,Juan,963,juan10@gmail.com,4591378562,0.00
+C003,Andra Zavala Sanchez,Andrea,159,and@gmail.com,79138425965,0.00
